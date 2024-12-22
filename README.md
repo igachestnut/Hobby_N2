@@ -10,7 +10,7 @@
 - 情報電子工学系専攻 共創情報学コース
 - 計測システム工学研究室 所属
 - 竹田海渡
-- mail : takeda5184@gmail.com
+- mail : igame20914@gmail.com
 - mail2: 24043060@muroran-it.ac.jp
 - TEL : 070-2032-9268 
 
