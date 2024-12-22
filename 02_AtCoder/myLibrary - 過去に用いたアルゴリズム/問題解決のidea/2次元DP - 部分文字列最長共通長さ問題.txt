@@ -1,0 +1,7 @@
+https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_t
+- 2つの文字列における、共通部分列で、最長のものを求める問題
+
+
+▼Idea
+- 二次元の引継ぎ元が 左だけでなく、上からもあるようなDP構造である。 斜め、上、左
+

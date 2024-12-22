@@ -1,0 +1,16 @@
+・有向グラフ
+・重みに負の値無し
+
+始点から始動。
+見えている重みの最小を順次確定していくアルゴリズム。
+
+優先度付きqueueである、heapqを利用すると、計算量がO(V logV)になる。（VはNode数である。）
+
+▼heapqの使い方
+node = []
+heappush(node, [重み, 行先のnode])
+2つの要素があっても、第一indexの順番で取得できるよ。便利だね。
+
+
+参考資料
+https://qiita.com/Yuya-Shimizu/items/eefdc6f854534e90c988

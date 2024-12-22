@@ -1,0 +1,13 @@
+>python -V
+version確認
+
+
+>python -m pip install --upgrade pip setuptools
+pipの更新
+
+>pip list
+pipの確認
+
+install
+>pip install -----------
+欲しいメソッドのインストール

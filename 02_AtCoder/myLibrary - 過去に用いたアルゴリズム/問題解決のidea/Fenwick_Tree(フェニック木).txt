@@ -1,0 +1,36 @@
+# Fenwick_Tree - BIT (Binary Indexed Tree)
+
+データ構造 -累積和 から派生する、データ構造の一つ。
+累積和のデータ構造が必要であるが、vi+=Wをしたいようなときに、高速に動作させられる。
+
+似たものとしてセグメント木 Segment-Tree がある
+
+
+▼参考URL
+https://qiita.com/AkariLuminous/items/f2f7930e7f67963f0493
+
+https://hos.ac/slides/20140319_bit.pdf
+
+ーーーーーーーーーーーーーーーーーーーーーーーー
+▼解ける問題
+
+長さNの数列が与えられる。a_1, a_2, ,, a_Nが存在する。
+以下のクエリが与えられるので処理しろ
+1. add i, x : a_iにxを加算する
+2. sum i : 先頭a_1からa_iまでの和を計算する。
+
+データ構造
+
+
+def Fenwick_Tree :
+    def __init__(self, n) :
+        self._n = n
+        self._data = [0]*n
+
+    def add(self, i, x) :
+        """ fenwick木にデータを追加する """
+        
+        
+
+
+
