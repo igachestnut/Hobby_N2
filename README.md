@@ -12,7 +12,6 @@
 - 竹田海渡
 - mail : igame20914@gmail.com
 - mail2: 24043060@muroran-it.ac.jp
-- TEL : 070-2032-9268 
 
 - 2026卒, 就職の意思あり
 
